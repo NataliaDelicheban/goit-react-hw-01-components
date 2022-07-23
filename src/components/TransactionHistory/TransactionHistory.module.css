@@ -1,0 +1,21 @@
+.transactionHistory {
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+}
+.header {
+    border: 2px solid rgba(10, 10, 10, 0.2);
+    background-color: rgb(19, 16, 22);
+    color: white;
+    height: 50px;
+}
+.body {
+    background-color: rgb(105, 101, 101);
+    /* border: 2px solid rgba(10, 10, 10, 0.2); */
+}
+.text {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px;
+}
